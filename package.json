@@ -2,7 +2,7 @@
     "name": "kripton",
     "displayName": "Kripton",
     "description": "Kripton color theme for Visual Studio Code",
-    "publisher": "Phan Dung Tri",
+    "publisher": "PhanDungTri",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.53.0"
