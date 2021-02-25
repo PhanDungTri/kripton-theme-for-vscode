@@ -27,5 +27,8 @@
                 "path": "./themes/Kripton-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.85.0"
     }
 }
