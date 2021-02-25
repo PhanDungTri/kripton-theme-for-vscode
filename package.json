@@ -2,13 +2,22 @@
     "name": "kripton",
     "displayName": "Kripton",
     "description": "Kripton color theme for Visual Studio Code",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.53.0"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "./assets/icon.png",
+    "author": {
+        "name": "Phan Dung Tri",
+        "email": "phandungtri99@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/Mysbeario/kripton-theme-for-vscode.git",
+        "type": "git"
+    },
     "contributes": {
         "themes": [
             {
