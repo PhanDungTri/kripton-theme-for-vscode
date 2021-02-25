@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "./assets/icon.png",
+    "icon": "assets/icon.png",
     "author": {
         "name": "Phan Dung Tri",
         "email": "phandungtri99@gmail.com"
